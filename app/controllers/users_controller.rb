@@ -5,3 +5,4 @@ class UsersController < ApplicationController
     @prototypes = @user.prototypes
   end
 end
+
